@@ -1,7 +1,0 @@
-package com.example.mapper;
-
-import com.example.domain.ProductVO;
-
-public interface ProductMapper {
-	public void insert(ProductVO vo);
-}
