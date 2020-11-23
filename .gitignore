@@ -6,3 +6,6 @@ Servers/
 .classpath
 .project
 .springBeans
+*.zip
+.metadata/.plugins/org.eclipse.core.resources/.history/17/60a1d19f632d001b1f92b371649f90a5
+.metadata/.plugins/org.eclipse.core.resources/.history/17/60a1d19f632d001b1f92b371649f90a5
