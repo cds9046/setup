@@ -1,11 +1,23 @@
-.metadata/
-.recommenders/
-RemoteSystemsTempFiles/
-Servers/
-Servers/
-.classpath
-.project
-.springBeans
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
 *.zip
-.metadata/.plugins/org.eclipse.core.resources/.history/17/60a1d19f632d001b1f92b371649f90a5
-.metadata/.plugins/org.eclipse.core.resources/.history/17/60a1d19f632d001b1f92b371649f90a5
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
