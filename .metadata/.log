@@ -187,3 +187,12 @@ java.net.UnknownHostException: jope.ow2.org
 !MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.m2e.wtp.jsf.feature,1.2.2.20160830-1240
 !SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-11-23 17:24:19.945
 !MESSAGE No repository found containing: org.eclipse.update.feature,org.sonatype.m2e.buildhelper.feature,0.15.0.201212120353
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-11-23 17:37:38.483
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-11-23 17:37:38.493
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-11-23 17:37:40.393
+!MESSAGE The workspace will exit with unsaved changes in this session.
